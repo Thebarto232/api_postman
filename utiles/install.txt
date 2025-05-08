@@ -1,0 +1,7 @@
+git init -y 
+npm install json-server@0.17.4
+npm i mysql12
+npm i express
+npm install --save-dev nodemon
+
+---npm run dev iniciar server
