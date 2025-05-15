@@ -1,4 +1,4 @@
-import conetion from "../utiles/config_bs.js"; // Asegúrate de tener esta ruta bien configurada
+import conetion from "../utiles/config_bs.js"; 
 
 export class LENGUAJES {
   async getAll() {

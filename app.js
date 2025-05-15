@@ -3,7 +3,7 @@ import generosRoutes from "./routes/generos.js";
 import lenguajesRoutes from "./routes/lenguajes.js";
 import usuariosRoutes from "./routes/usuarios.js";
 import lenguajesUsuariosRoutes from "./routes/lenguajes_usuarios.js";
-// import ciudadesRoutes from "./routes/ciudades.js"; // Asegúrate de que CIUDADES también esté
+// import ciudadesRoutes from "./routes/ciudades.js"; 
 
 const app = express();
 app.use(express.json());
