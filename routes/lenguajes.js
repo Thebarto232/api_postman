@@ -1,5 +1,6 @@
 import express from "express";
-import LENGUAJES_control from "../controllers/lenguajes.js";
+import LENGUAJES_control from "../controller/lenguajes.js";
+
 
 const router = express.Router();
 

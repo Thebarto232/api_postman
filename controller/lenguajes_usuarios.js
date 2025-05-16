@@ -1,4 +1,4 @@
-import { LENGUAJES_USUARIOS } from "../models/lenguajes_usuarios.js";
+import { LENGUAJES_USUARIOS } from "../modelo/lenguajes_usuarios.js";
 
 const modelo_lenguajes_usuarios = new LENGUAJES_USUARIOS();
 

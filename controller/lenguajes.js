@@ -1,4 +1,4 @@
-import { LENGUAJES } from "../models/lenguajes.js";
+import { LENGUAJES } from "../modelo/lenguajes.js";
 
 const modelo_lenguajes = new LENGUAJES();
 

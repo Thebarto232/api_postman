@@ -1,4 +1,4 @@
-import { CIUDADES } from "../models/ciudades.js"; // Asegúrate de que la ruta sea correcta
+import { CIUDADES } from "../modelo/ciudades.js"; // Asegúrate de que la ruta sea correcta
 
 
 const modelo_ciudades = new CIUDADES();

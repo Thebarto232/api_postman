@@ -1,4 +1,4 @@
-import { USUARIOS } from "../models/usuarios.js";
+import { USUARIOS } from "../modelo/usuarios.js";
 
 const modelo_usuarios = new USUARIOS();
 

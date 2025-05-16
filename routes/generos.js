@@ -1,5 +1,5 @@
 import express from "express";
-import generosControl from "../controllers/generos.js";
+import generosControl from "../controller/generos.js";
 const router = express.Router();
 
 router.get("/", generosControl.getAllGENEROS);

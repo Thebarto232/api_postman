@@ -1,4 +1,4 @@
-import { GENEROS } from "../models/generos.js";
+import { GENEROS } from "../modelo/generos.js";
 const modelo_generos = new GENEROS();
 
 const getAllGENEROS = async (req, res) => {

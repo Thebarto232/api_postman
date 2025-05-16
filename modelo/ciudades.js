@@ -1,4 +1,4 @@
-import conetion from "../utiles/config_bs.js"; 
+import conetion from "../utiles/config_bs.js";
 
 export class CIUDADES {
   async getAll() {
